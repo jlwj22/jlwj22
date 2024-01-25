@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hi there 👋🏾
 
 ## My name is Julius L. Jones Jr. A  third-year Computer Science Major from Chicago Illinois. 
 
