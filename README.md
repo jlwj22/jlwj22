@@ -3,7 +3,7 @@
 ## My name is Julius L. Jones Jr. A  third-year Computer Science Major from Chicago Illinois. 
 
 ### 🔭 I’m currently working on...
-#### a few different projects, like a facial recognition program in Python, and an AirBNB clone in Swift.
+#### A few different projects, like a facial recognition program in Python, and an AirBNB clone in Swift.
 
 ### 🌱 I’m currently learning 
 #### Python, Swift, and AI/ML. These are all brand new to me, and im loving all of them. Especially Python.
@@ -12,9 +12,9 @@
 #### My facial recognition program in Python, Im struggling to find time to work on it, but when I do, Ill configure a README file and i'll get to work, hoping that it'll be fun!
 
 ### 🤔 Im looking for help with
-#### learning command line tools in Linux and Mac, I feel like the terminal is very powerful, and If i can learn terminal commands and how to navigate Git, i'd be unstoppable.
+#### Learning command line tools in Linux and Mac, I feel like the terminal is very powerful, and If i can learn terminal commands and how to navigate Git, i'd be unstoppable.
 
-### 💬 ask me about
+### 💬 Ask me about
 #### Anything!! I feel like one of the most shocking things about me is my pathway into Computer Science and tech. and Im really knowledgeable about the automobile industry. BMW fanboy.
 
 ### 📥 How to reach me:
@@ -22,18 +22,3 @@
 
 ### ⚡️ Fun fact
 #### I am starting to like art... 
-
-<!--
-**jlwj22/jlwj22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
