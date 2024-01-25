@@ -18,7 +18,7 @@
 #### Anything!! I feel like one of the most shocking things about me is my pathway into Computer Science and tech. and Im really knowledgeable about the automobile industry. BMW fanboy.
 
 ### 📥 How to reach me:
-#### Im on most platforms, but {LinkedIn}(https://www.linkedin.com/in/juliusljonesjr?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjAVsMSykQpu5nZvvhgSi%2Bw%3D%3D) , {github}(https://github.com/jlwj22), {email}(Juliuslwj22@gmail.com)
+#### Im on most platforms, but [LinkedIn](https://www.linkedin.com/in/juliusljonesjr?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjAVsMSykQpu5nZvvhgSi%2Bw%3D%3D) , [github](https://github.com/jlwj22), [email](Juliuslwj22@gmail.com)
 
 ### ⚡️ Fun fact
 #### I am starting to like art... 
