@@ -1,18 +1,18 @@
 # Hi there 👋🏾
 
-## My name is Julius L. Jones Jr, A  third-year Computer Science Major from Chicago Illinois. 
+## My name is Julius L. Jones Jr, A  third-year Computer Science Major at Morehouse College from Chicago Illinois. 
 
 ### 🔭 I’m currently working on...
-#### A few different projects, like a facial recognition program in Python, and an AirBNB clone in Swift.
+#### A few different projects, like a facial recognition program in Python, and an AirBNB clone in Swift. In school im taking classes like Mechanics, and Introduction to black leadership. Through the Google Tech Exchange program I am taking Software Development Studio, Applied Data Structures, and Careers in Tech... All in Python. A full course load if you ask me. 
 
 ### 🌱 I’m currently learning 
-#### Python, Swift, and AI/ML. These are all brand new to me, and im loving all of them. Especially Python.
+#### Python and AI/ML. These are all brand new to me, and im loving all of them. Especially Python. Im coming from C++ so its a huge learning curve, but im getting it done regardless. 
 
 ### 🕺🏾 Im looking to collaborate on
 #### My facial recognition program in Python, Im struggling to find time to work on it, but when I do, Ill configure a README file and i'll get to work, hoping that it'll be fun!
 
 ### 🤔 Im looking for help with
-#### Learning command line tools in Linux and Mac, I feel like the terminal is very powerful, and If i can learn terminal commands and how to navigate Git, i'd be unstoppable.
+#### Learning command line tools in Mac, properly working on open source, (push, pull requests, commits, etc). Plus any help in Python would be great. Python Data Structures to be precise. 
 
 ### 💬 Ask me about
 #### Anything!! I feel like one of the most shocking things about me is my pathway into Computer Science and tech. Im really knowledgeable about the automobile industry. A huge BMW fanboy.
