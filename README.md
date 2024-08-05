@@ -1,6 +1,6 @@
 # Hi there 👋🏾
 
-## My name is Julius L. Jones Jr, A  third-year Computer Science Major at Morehouse College from Chicago Illinois. 
+## My name is Julius L. Jones Jr, A  fourth-year Computer Science Major at Morehouse College from Chicago Illinois. 
 
 ### 🔭 I’m currently working on...
 #### A few different projects, All in my repositories. A full course load if you ask me. 
